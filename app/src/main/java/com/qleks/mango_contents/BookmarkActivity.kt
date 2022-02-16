@@ -49,5 +49,7 @@ class BookmarkActivity : AppCompatActivity() {
 
         recyclerView.layoutManager = GridLayoutManager(this, 2)
 
+        //test
+
     }
 }
